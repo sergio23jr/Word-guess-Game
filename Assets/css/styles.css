@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    margin: 0px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 3px 3px black;
+    
+    
+}
+.container{
+    border: 3px outset white;
+    padding: 12px;
+}
+.game {
+    margin: 0px;
+    background-color: rgb(197, 144, 45);
+    
+}
+.jumbotron{
+    background-color: rgb(133, 133, 133);
+}
+.game-row{
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 32px;
+}
+p{
+    border: 3px yellow;
+    border-style: double;
+    margin: 5px;
+    display: block;
+    font-size: 20px;
+}
+#myHr{
+    border: 0;
+    height: 0;
+    box-shadow: 0 0 10px 1px black;
+    margin-bottom: 10px;
+}
+#hangman, #soccer{
+    height: 300px;
+    width: 450px;
+}
+.statRow{
+    border: 3px solid white;
+}
