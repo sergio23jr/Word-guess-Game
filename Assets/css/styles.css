@@ -40,7 +40,7 @@ p{
     box-shadow: 0 0 10px 1px black;
     margin-bottom: 10px;
 }
-#hangman, #soccer{
+#hangman, #trickOrTreat{
     height: 300px;
     width: 450px;
 }

@@ -88,9 +88,6 @@ function checkAnswer (letter) {
             
         };
     }
-    
-
-    
 
 };
 function rounds() {
@@ -118,8 +115,6 @@ function victory() {
     
 
 };
-
-
 
 document.onkeypress = function(event) {
     userGuess = String.fromCharCode(event.keyCode).toLowerCase();
